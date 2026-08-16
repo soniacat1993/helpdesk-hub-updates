@@ -1,41 +1,16 @@
 {
-  "version": "1.3.0",
-  "notes": "Adds secure automatic updates with checksum verification, code backup, restart, and rollback.",
+  "version": "1.3.1",
+  "notes": "Shows WebSMS subcategories only when Other WebSMS Platform is selected and clears inactive subcategory filters.",
   "files": [
     {
-      "path": "server.js",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.3.0/server.js",
-      "sha256": "d4d3be44eb8700bc17f9b55dcc54b04562f5a5789d61b75afc4497f302dbaa58"
-    },
-    {
       "path": "public/app.js",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.3.0/public/app.js",
-      "sha256": "95a34aa4eb3a92cf73205994f73a86d89f1e60736ee1275842e4884a3c7e7c1f"
-    },
-    {
-      "path": "public/index.html",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.3.0/public/index.html",
-      "sha256": "240d88a9bc5d5586223367def39efd6934845fe2e673398db1c4e06188c2da4f"
-    },
-    {
-      "path": "public/style.css",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.3.0/public/style.css",
-      "sha256": "ac3f1e8e29afd8562dc60b0af790ecb47184e27ae3abedbe31d7eae0ed9904bb"
-    },
-    {
-      "path": "database/schema.sql",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.3.0/database/schema.sql",
-      "sha256": "230b3167695e3e7d877a869ada4100490e6702b56773bc15a6f16681f6d46e64"
-    },
-    {
-      "path": "Apply-AutoUpdate.ps1",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.3.0/Apply-AutoUpdate.ps1",
-      "sha256": "a7860e0020f4ab31ccd894bf85929c15d4f422cece63c7e233497a3335a88854"
+      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.3.1/public/app.js",
+      "sha256": "dfea312a08979b4241b9ee092536927c3364febf33cccba31be7f24fd1e9242a"
     },
     {
       "path": "app-version.json",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.3.0/app-version.json",
-      "sha256": "28096d7ac3beb64d4f6fc4c07196d4725f489e7e9b82109ca7d8b3aed823effb"
+      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.3.1/app-version.json",
+      "sha256": "ef9f88b996a6c4318b3a8e4108cfcbce2f772ddcba7c10e9de25c02ab49cb883"
     }
   ]
 }

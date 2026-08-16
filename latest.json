@@ -1,26 +1,26 @@
 {
-  "version": "1.4.1",
-  "notes": "Removes the automatic updater and its restart machinery while preserving the pastel dashboard and all local data features.",
+  "version": "1.4.2",
+  "notes": "Adds Viber and Operator/Aggregator to the Product list in notes, dashboard filters, and major incidents.",
   "files": [
     {
       "path": "server.js",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.4.1/server.js",
+      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.4.2/server.js",
       "sha256": "76c7df08d92b6f269c28c6b24491884b19f5bdd560e827cca6c8d3fe53d10bad"
     },
     {
       "path": "public/app.js",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.4.1/public/app.js",
-      "sha256": "380242e0777d6f995743f3387f9420e44d487ec365a3eda3679d1138e9704aaa"
+      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.4.2/public/app.js",
+      "sha256": "da4756d059c01e229d6d8462ea6d7cdf70778baf6062e6ada3c3ce00db2c3ac6"
     },
     {
       "path": "public/style.css",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.4.1/public/style.css",
+      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.4.2/public/style.css",
       "sha256": "9125b8c9b619ec5991c95034e2482fde8a995d68155ad6ac7ca9fee7806ad8e3"
     },
     {
       "path": "app-version.json",
-      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.4.1/app-version.json",
-      "sha256": "ff1c0a652f38113cac3c47782617644745f5e795d770302679b6486cb883d5a3"
+      "url": "https://raw.githubusercontent.com/soniacat1993/helpdesk-hub-updates/main/releases/1.4.2/app-version.json",
+      "sha256": "5958396ce9611575bfda0f7f49670bc293c8e2bb253ea24b519f82f7cde53f40"
     }
   ]
 }
